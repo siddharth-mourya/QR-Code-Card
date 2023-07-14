@@ -22,8 +22,8 @@ Made this cool QR code card component.
 
 ### Links
 
-- Solution URL: (https://github.com/siddharth-mourya/QR-Code-Card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/siddharth-mourya/QR-Code-Card
+- Live Site URL: https://qr-code-card-tau.vercel.app/
 
 ## My process
 
