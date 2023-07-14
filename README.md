@@ -30,7 +30,6 @@ Made this cool QR code card component.
 ### Built with
 
 - HTML divs and img
-- settin
 - CSS properties
   - Used flexbox to position the card in center.
   - Used class based styling
