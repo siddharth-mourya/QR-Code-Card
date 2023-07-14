@@ -22,7 +22,7 @@ Made this cool QR code card component.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/siddharth-mourya/QR-Code-Card)
+- Solution URL: [](https://github.com/siddharth-mourya/QR-Code-Card)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
